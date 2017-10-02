@@ -9,9 +9,9 @@
 
 This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and most contemporary sample code.
 
-This guide is not intended to teach you JavaScript from the ground up, but to help developers with basic knowledge who may struggle to get familiar with modern codebases (or let's say to learn React for instance) because of the JavaScript concepts used.
+This guide is not intended to teach you JavaScript from the ground up, but to help developers with basic knowledge who may struggle to get familiar with modern codebases (or to learn React, for instance) because of the JavaScript concepts used.
 
-Besides, I will sometimes provide personal tips that may be debatable but will take care to mention that it's a personal recommendation when I do so.
+I will sometimes provide personal tips that may be debatable but will take care to mention that it's a personal recommendation when I do so.
 
 > **Note:** Most of the concepts introduced here are coming from a JavaScript language update (ES2015, often called ES6). You can find new features added by this update [here](http://es6-features.org); it's very well done.
 
@@ -92,7 +92,7 @@ When you struggle to understand a notion, I suggest you look for answers on the 
       - [Explanation with sample code](#explanation-with-sample-code-2)
       - [External resources](#external-resources-6)
     + [Truthy / Falsy](#truthy--falsy)
-      - [External ressources](#external-resources-7)
+      - [External resources](#external-resources-7)
   * [Glossary](#glossary)
     + [Scope](#-scope)
     + [Variable mutation](#-variable-mutation)
@@ -587,7 +587,7 @@ console.log(y) // "b"
 
 ### Array methods - map / filter / reduce
 
-*Map*, *filter* and *reduce* are array methods that are coming from a programming paradigm named [*functional programming*](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0).
+*Map*, *filter* and *reduce* are array methods that come from the [*functional programming*](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) paradigm.
 
 To sum it up:
 
